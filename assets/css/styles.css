@@ -1,0 +1,40 @@
+#foward {
+  forward {position: absolute;
+  z-index: 5px;
+}
+
+#foward {
+  position: absolute;
+  z-index: -10;
+}
+
+img {
+  border: 0px;
+}
+
+#Derecha {
+  width: 530px;
+  height: 800%;
+  padding: 30px;
+  background-color: #d0cece;
+  float: left;
+}
+
+#Centro {
+  width: 530px;
+  height: 800%;
+  padding: 20px;
+  background-color: #d0cece;
+  float: left;
+}
+
+#Izquierda {
+  width: 530px;
+  height: 800%;
+  padding: 30px;
+  background-color: #d0cece;
+  float: left;
+}
+
+
+
